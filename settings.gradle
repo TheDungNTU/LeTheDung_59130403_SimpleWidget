@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='LeTheDung_59130403_SimpleWidget'
